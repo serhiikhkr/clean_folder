@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: clean-folder
+Version: 0.0.1
+Summary: Clean and sort folders
+Home-page: http://github.com/dummy_user/useful
+Author: Serhii Zub
+Author-email: 05hello.world11@gmail.com
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
